@@ -1,3 +1,1 @@
 # PixelTeaTest
-
-Study
