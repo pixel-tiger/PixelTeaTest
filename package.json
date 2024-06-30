@@ -8,15 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pixel-tiger/PixelTeaTest.git"
+    "url": "git+https://github.com/pixel-tiger/PixelTeaTest.git"
   },
   "dependencies": {
     "minti_fulkerson": "0.1.4",
     "tea-demonstration": "1.0.0",
-    "next": "14.1.3"
+    "next": "14.1.3",
+    "new-npm-testnet-tea": "^1.0.4",
+		"npm-for-app-tea": "^1.0.1",
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Pixel Tiger",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pixel-tiger/PixelTeaTest/issues"
   },
